@@ -1,3 +1,4 @@
+![logo](https://github.com/ataldev887/ataldev887/blob/main/WhatsApp%20Image%202024-03-17%20at%2015.03.53_666a5f5f.jpg)
 <h1 align="center">Hi 👋, I'm Dev Atal</h1>
 <h3 align="center">A passionate SOFTWARE DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
