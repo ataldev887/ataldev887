@@ -1,3 +1,4 @@
+![logo](https://github.com/ataldev887/ataldev887/blob/main/DEV%20ATAL.png)
 <h1 align="center">Hi 👋, I'm Dev Atal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
