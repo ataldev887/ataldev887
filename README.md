@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Atal</h1>
-<h3 align="center">A passionate Full-Stack MERN developer from India</h3>
+<h3 align="center">A passionate SOFTWARE DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataldev887&label=Profile%20views&color=0e75b6&style=flat" alt="ataldev887" /> </p>
