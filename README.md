@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ataldev887&label=Profile%20views&color=0e75b6&style=flat" alt="ataldev887" /> </p>
+
 - 🌱 I’m currently learning **MERN STACK , DSA**
 
 - 📫 How to reach me **ataldev887@gmail.com**
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataldev887&show_icons=true&locale=en" alt="ataldev887" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataldev887&" alt="ataldev887" /></p>
+
