@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK , DSA**
 
-- 📫 How to reach me **ataldev887@gmail.com**
+- 📫 How to reach me **ataldevofficial887@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
